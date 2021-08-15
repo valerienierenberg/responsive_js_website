@@ -6,6 +6,10 @@
     scroll-behavior: smooth;
 }
 
+html,body{
+    overflow-x: hidden;
+}
+
 .navbar {
     background: #131313;
     height: 80px;
