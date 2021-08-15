@@ -451,6 +451,7 @@
 
 /* Services Section */
 
+/* Services Section */
 .services {
   background: #131313;
   display: flex;
@@ -463,7 +464,7 @@
 
 .services h1 {
   background-color: #ff8177;
-  background-image: linear-gradient(to right, #ff0844 0%, #e47a5a 100%);
+  background-image: linear-gradient(to right, #ff0844 0%, #f7673c 100%);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -494,12 +495,28 @@
 
 .services__card:nth-child(2) {
   background: #1fa2ff; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #a6ffcb, #12d8fa, #1fa2ff);
-  background: linear-gradient(to right, #a6ffcb, #12d8fa, #1fa2ff);
+  background: -webkit-linear-gradient(
+    to right,
+    #a6ffcb,
+    #12d8fa,
+    #1fa2ff
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #a6ffcb,
+    #12d8fa,
+    #1fa2ff
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .services__card:nth-child(3) {
-  background-image: linear-gradient(-225deg, #231557 0%, #44107a 29%, #ff1361 67%, #fff800 100%);
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
 }
 
 .services__card h2 {
@@ -544,11 +561,12 @@
   }
 }
 
-@media screen and (max-wdith: 768px) {
+@media screen and (max-width: 768px) {
   .services__wrapper {
     grid-template-columns: 1fr;
   }
 }
+
 
 /* Footer CSS */
 .footer__container {
