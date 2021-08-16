@@ -5,12 +5,15 @@
 ## Please view the site [here via GitHub Pages](https://valerienierenberg.github.io/responsive_js_website)
 
 ### Features:
-- responsivity
-- smooth scroll
+- Responsivity
+- Smooth scroll
 - Javascript animations
-- gradients
+- Gradients
 
 ### Screenshots of site in Chrome Browser
 
 
 ### Screenshots of site in Mobile Browser (Safari)
+![MobileImage1](https://github.com/valerienierenberg/responsive_js_website/blob/main/images/mobile_responsive_js_site_screenshot1.PNG?raw=true)
+![MobileImage2](https://github.com/valerienierenberg/responsive_js_website/blob/main/images/mobile_responsive_js_site_screenshot2.PNG?raw=true)
+![MobileImage3](https://github.com/valerienierenberg/responsive_js_website/blob/main/images/mobile_responsive_js_site_screenshot3.PNG?raw=true)
