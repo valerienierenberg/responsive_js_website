@@ -495,10 +495,9 @@
 }
 
 .services__wrapper {
-  justify-content: center;
-  /* display: grid;
+  display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr; */
+  grid-template-rows: 1fr;
 }
 
 .services__card {
