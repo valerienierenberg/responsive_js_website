@@ -10,10 +10,10 @@
 - Javascript animations
 - Gradients
 
-## Demo of site in Mobile Browser (Responsive)
-![Gif of Responsive JS Site in Mobile Browser](./MobileResponsiveJSSite.gif)
-
 ## Demo of site in Chrome Browser
 ![Gif of Responsive JS Site in Desktop Browser](./ResponsiveJSSite.gif)
+
+## Demo of site in Mobile Browser (Responsive)
+![Gif of Responsive JS Site in Mobile Browser](./MobileResponsiveJSSite.gif)
 
 #### Special Thanks to [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
