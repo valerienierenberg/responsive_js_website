@@ -10,12 +10,10 @@
 - Javascript animations
 - Gradients
 
-## Demo of site in Chrome Browser
-![Gif of Responsive JS Site in Browser](./ResponsiveJSSite.gif)
+## Demo of site in Mobile Browser (Responsive)
+![Gif of Responsive JS Site in Mobile Browser](./MobileResponsiveJSSite.gif)
 
-## Screenshots of site in Mobile Browser (Safari)
-![MobileImage1](https://github.com/valerienierenberg/responsive_js_website/blob/main/images/mobile_responsive_js_site_screenshot1.PNG?raw=true)
-![MobileImage2](https://github.com/valerienierenberg/responsive_js_website/blob/main/images/mobile_responsive_js_site_screenshot2.PNG?raw=true)
-![MobileImage3](https://github.com/valerienierenberg/responsive_js_website/blob/main/images/mobile_responsive_js_site_screenshot3.PNG?raw=true)
-![MobileImage4](https://github.com/valerienierenberg/responsive_js_website/blob/main/images/mobile_responsive_js_site_screenshot4.PNG?raw=true)
-![MobileImage5](https://github.com/valerienierenberg/responsive_js_website/blob/main/images/mobile_responsive_js_site_screenshot5.PNG?raw=true)
+## Demo of site in Chrome Browser
+![Gif of Responsive JS Site in Desktop Browser](./ResponsiveJSSite.gif)
+
+#### Special Thanks to [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
