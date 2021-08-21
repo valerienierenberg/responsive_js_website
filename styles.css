@@ -709,14 +709,14 @@
     width: 100%;
   }
 }
-
+/*
 .fade-in-text {
   animation: fadeIn linear 3s;
   -webkit-animation: fadeIn linear 3s;
   -moz-animation: fadeIn linear 3s;
   -o-animation: fadeIn linear 3s;
   -ms-animation: fadeIn linear 3s;
-}
+}*/
 
 @keyframes fadeIn {
   0% {opacity:0;}
